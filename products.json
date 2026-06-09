@@ -68,7 +68,7 @@
         "form": "Granule"
       },
       "pricing": {
-        "mrp": "950.00",
+        "mrp": "₹950.00",
         "currency": "INR",
         "note": "Inclusive of all taxes"
       },
@@ -196,7 +196,7 @@
         "form": "Granule"
       },
       "pricing": {
-        "mrp": "1650.00",
+        "mrp": "₹1650.00",
         "currency": "INR",
         "note": "Inclusive of all taxes"
       },
@@ -477,7 +477,7 @@
     "form": "Granule"
   },
   "pricing": {
-    "mrp": "1650.00",
+    "mrp": "₹1650.00",
     "currency": "INR",
     "note": "Inclusive of all taxes"
   },
@@ -587,7 +587,7 @@
     "form": "Liquid"
   },
   "pricing": {
-    "mrp": "600.00",
+    "mrp": "₹600.00",
     "currency": "INR",
     "note": "Inclusive of all taxes"
   },
