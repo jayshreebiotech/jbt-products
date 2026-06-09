@@ -708,17 +708,24 @@
   "shelfLife": "3 Years from Date of Manufacturing",
   "licenceNo": "LCBWD0320260042",
   "packaging": {
-  "netWeight": "100ml, 250ml, 500ml",
+  "netWeight": "50ml, 100ml",
   "form": "Liquid"
   },
   "pricing": {
-    "mrp": "Starts from ₹1200",
+    "mrp": "Starts from ₹650",
     "currency": "INR",
     "note": "Price varies by pack size"
   },
   "certifications": [
     "ISO 9001:2015"
   ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Plot No. 35/36, Main Gate Road, Achalpur 444806",
+    "email": "jayshreebiotech29@gmail.com",
+    "customerCare": "8850318366"
+  },
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
