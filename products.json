@@ -336,11 +336,11 @@
   "shelfLife": "3 Years from Date of Manufacturing",
   "licenceNo": "LCBWD0320260042",
   "packaging": {
-    "netWeight": "500 ml",
+    "netWeight": "500 ml, 1l",
     "form": "Liquid"
   },
   "pricing": {
-    "mrp": "600.00",
+    "mrp": "Starts from ₹600.00",
     "currency": "INR",
     "note": "Inclusive of all taxes"
   },
