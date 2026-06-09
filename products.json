@@ -357,8 +357,144 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "prozyme-vita-plus",
+  "name": "Prozyme Vita Plus",
+  "slug": "prozyme-vita-plus",
+  "category": "Biological Granule",
+  "subcategory": "Seaweed Extract, Protein Hydrolysate & Humic Acid",
+  "shortDescription": "Biological granule formulated with seaweed extract, protein hydrolysate and humic acid for enhanced crop nutrition, root development and higher yields.",
+  "description": "Prozyme Vita Plus is an advanced biological granule developed from seaweed and plant extracts using modern biological technology. It contains <strong>humic acids, amino acids, enzymes and plant growth promoters</strong> essential for optimum crop nutrition. The formulation enhances root growth, nutrient uptake, photosynthesis, crop vigor and overall productivity while improving soil fertility.",
+  "image": "images/prozyme-vita-plus.png",
+  "tags": [
+    "Biological",
+    "Granule",
+    "Seaweed Extract",
+    "Humic Acid",
+    "Amino Acid",
+    "Organic"
+  ],
+  "benefits": [
+    "Promotes vigorous root growth and helps seedlings establish quickly.",
+    "Improves absorption and transportation of primary and micronutrients throughout the plant.",
+    "Enhances chlorophyll production and increases photosynthetic activity.",
+    "Reduces crop duration and lowers cultivation costs.",
+    "Improves crop yield, produce quality and soil fertility.",
+    "Develops crop resistance against environmental stress and changing climatic conditions.",
+    "Increases flowering and fruit setting, resulting in higher overall yield."
+  ],
+  "composition": [
+    {
+      "ingredient": "Seaweed extract (Ascophyllum nodosum), % by weight, maximum",
+      "content": "0.5"
+    },
+    {
+      "ingredient": "Protein hydrolysates derived from defatted soya flour by enzymatic (papain) hydrolysis, % by weight, minimum",
+      "content": "0.5"
+    },
+    {
+      "ingredient": "Humic acid (Source: Leonardite), % by weight, minimum",
+      "content": "0.02"
+    },
+    {
+      "ingredient": "Polysorbate 80, % by weight, minimum",
+      "content": "0.05"
+    },
+    {
+      "ingredient": "Bentonite granules, % by weight",
+      "content": "QS"
+    },
+    {
+      "ingredient": "Total (Percent)",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alginic acid %, by weight, minimum",
+      "value": "0.02"
+    },
+    {
+      "parameter": "Fucoidan %, by weight, minimum",
+      "value": "0.02"
+    },
+    {
+      "parameter": "Free amino acids %, by weight, minimum",
+      "value": "0.5"
+    },
+    {
+      "parameter": "Total amino acids %, by weight, minimum",
+      "value": "0.6"
+    },
+    {
+      "parameter": "pH (10% aqueous solution)",
+      "value": "6.0-7.5"
+    },
+    {
+      "parameter": "Total dissolved solids %, by weight, minimum",
+      "value": "1"
+    },
+    {
+      "parameter": "Bulk density (g/ml)",
+      "value": "0.80-1.2"
+    },
+    {
+      "parameter": "Total organic carbon %, by weight, minimum",
+      "value": "1"
+    },
+    {
+      "parameter": "Solubility %, by weight, minimum",
+      "value": "5"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> Mix 5 kg per acre with any chemical fertilizer and apply together.",
+      "<strong>Alternative:</strong> Can also be applied separately as per agronomist recommendation.",
+      "Apply during basal fertilizer application or top dressing for best results."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Product remains stable for up to three years from the date of manufacturing.",
+  "safety": [
+    {
+      "title": "Non-Toxic",
+      "text": "Non-poisonous and safe for humans, animals and the environment."
+    },
+    {
+      "title": "Eco-Safe",
+      "text": "Made using biological ingredients and leaves no harmful chemical residues."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Store in original packaging and keep out of reach of children."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "25 Kg",
+    "form": "Granule"
+  },
+  "pricing": {
+    "mrp": "1650.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Plot No. 35/36, Main Gate Road, Achalpur 444806",
+    "email": "jayshreebiotech29@gmail.com",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
-
 
 
     
