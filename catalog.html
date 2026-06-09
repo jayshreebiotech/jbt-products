@@ -543,7 +543,7 @@ function createCard(p) {
     <div class="card-desc">${p.shortDescription || ''}</div>
     <div class="card-footer">
       <div class="card-price">
-        ${p.pricing ? `₹${p.pricing.mrp}` : ''}
+        ${p.pricing ? `${p.pricing.mrp}` : ''}
         ${p.pricing ? '<small>Incl. all taxes</small>' : ''}
       </div>
       ${p.packaging?.netWeight ? `<div class="card-weight">${p.packaging.netWeight}</div>` : ''}
