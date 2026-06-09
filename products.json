@@ -494,7 +494,118 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
-}
+},
+    {
+  "id": "humigard-12",
+  "name": "Humigard-12",
+  "slug": "humigard-12",
+  "category": "Biological Liquid",
+  "subcategory": "Humic & Fulvic Acid",
+  "shortDescription": "Liquid humate formulation containing humic acid and fulvic acid for improving plant growth, flowering, fruit development and crop quality.",
+  "description": "Humigard-12 is a premium liquid plant growth enhancer formulated with <strong>humic acid, fulvic acid, preservative and solvent</strong>. It stimulates overall plant growth, improves flowering and fruit development, enhances nutrient absorption and helps increase crop quality and yield. The product supports better root activity and improves plant performance under field conditions.",
+  "image": "images/humigard-12.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Humic Acid",
+    "Fulvic Acid",
+    "Plant Growth Promoter",
+    "Organic"
+  ],
+  "benefits": [
+    "Stimulates overall plant growth and development.",
+    "Promotes more flowering, flowers and fruit formation.",
+    "Prevents shedding of buds, flowers and fruits.",
+    "Enhances fruit size and improves crop quality.",
+    "Improves crop yield and productivity.",
+    "Helps plants fight against viral and fungal diseases.",
+    "Improves root activity and nutrient availability."
+  ],
+  "composition": [
+    {
+      "ingredient": "Humic Acid, % by weight",
+      "content": "12"
+    },
+    {
+      "ingredient": "Preservative, % by weight",
+      "content": "0.02"
+    },
+    {
+      "ingredient": "Aqueous Media",
+      "content": "QS"
+    },
+    {
+      "ingredient": "Total (Percent)",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Humic Acid %, by weight, minimum",
+      "value": "10.0"
+    },
+    {
+      "parameter": "Fulvic Acid %, by weight, minimum",
+      "value": "2.5"
+    },
+    {
+      "parameter": "pH (10% aqueous solution)",
+      "value": "12-14"
+    },
+    {
+      "parameter": "Specific Gravity",
+      "value": "1.0-1.20"
+    }
+  ],
+  "activeIngredients": "Combination of Humic acids, Preservative and solvent.",
+  "application": {
+    "methods": [
+      "<strong>Recommended Crops:</strong> Chilli, cotton, soybean, paddy, tomato, cabbage, brinjal, orange, grapes, banana, fruits, vegetables, cereals, pulses and oilseed crops.",
+      "<strong>Dosage:</strong> Use 2-3 ml of Humigard-12 per litre of water.",
+      "Spray 2-3 times depending on crop condition and growth stage."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from sunlight. Shake well before use. Do not mix with alkaline chemicals.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only as recommended for agricultural crops."
+    },
+    {
+      "title": "Safe Storage",
+      "text": "Keep container closed and store away from direct sunlight."
+    },
+    {
+      "title": "Handling",
+      "text": "Keep out of reach of children and handle as per agricultural guidelines."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "500 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "600.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Plot No. 35/36, Main Gate Road, Achalpur 444806",
+    "email": "jayshreebiotech29@gmail.com",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    
 
 
     
