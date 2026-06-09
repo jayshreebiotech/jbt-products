@@ -78,455 +78,139 @@
       "createdAt": "2024-01-01"
     },
     {
-      "id": "bio-root-plus",
-      "name": "Bio Root Plus",
-      "slug": "bio-root-plus",
-      "category": "Root Stimulant",
-      "subcategory": "Biological Liquid",
-      "shortDescription": "Advanced biological root stimulant for rapid establishment and strong root architecture in all crops.",
-      "description": "Bio Root Plus is a concentrated biological liquid formulation combining plant growth promoting rhizobacteria (PGPR), humic acid and seaweed extracts. Designed to accelerate root elongation, improve soil microbiome and enhance crop establishment under stress conditions.",
-      "image": "images/bio-root-plus.jpg",
-      "tags": ["Root Stimulant", "PGPR", "Liquid", "Biological"],
+      "id": "golden-5-plus",
+      "name": "Golden 5 Plus",
+      "slug": "golden-5-plus",
+      "category": "Biological Granule",
+      "subcategory": "Seaweed Extract, Protein Hydrolysate & Humic Acid",
+      "shortDescription": "Biological granule developed from seaweed and plant extracts for improving crop nutrition, root growth, yield and soil fertility.",
+      "description": "Golden 5 Plus is a biological granule developed from seaweed and plant extracts using advanced biological technology. It contains essential humic acids, amino acids, enzymes and plant growth promoters required for optimal crop nutrition. The scientifically formulated granule enhances root development, nutrient absorption, photosynthesis, crop immunity and overall plant growth.",
+      "image": "images/golden-5-plus.png",
+      "tags": [
+        "Biological",
+        "Granule",
+        "Seaweed Extract",
+        "Humic Acid",
+        "Amino Acid",
+        "Organic"
+      ],
       "benefits": [
-        "Accelerates root elongation and lateral root formation within 5–7 days of application.",
-        "Improves soil microbial activity creating a healthy rhizosphere.",
-        "Enhances water and nutrient uptake efficiency.",
-        "Increases transplant success rate and reduces transplant shock.",
-        "Compatible with drip irrigation systems.",
-        "Improves tolerance to drought and salinity stress."
+        "Promotes vigorous root growth and helps seedlings establish quickly.",
+        "Improves absorption of primary and micronutrients from the soil and enhances nutrient-use efficiency throughout the plant.",
+        "Increases chlorophyll production and boosts photosynthetic activity.",
+        "Reduces crop duration and lowers production costs.",
+        "Improves crop yield, produce quality and soil fertility.",
+        "Enhances crop resistance against environmental stress and climate changes.",
+        "Significantly increases flowering, resulting in improved fruit set and yield."
       ],
       "composition": [
-        { "ingredient": "Plant Growth Promoting Rhizobacteria (PGPR), CFU/ml minimum", "content": "1×10^8" },
-        { "ingredient": "Humic acid, % by weight, minimum", "content": "2.0" },
-        { "ingredient": "Seaweed extract, % by weight, minimum", "content": "1.0" },
-        { "ingredient": "Carrier/Stabilizer", "content": "QS" }
+        {
+          "ingredient": "Seaweed extract (Ascophyllum nodosum), % by weight, maximum",
+          "content": "0.5"
+        },
+        {
+          "ingredient": "Protein hydrolysates derived from defatted soy flour by enzymatic (papain) hydrolysis, % by weight, minimum",
+          "content": "0.5"
+        },
+        {
+          "ingredient": "Humic acid (Source: Leonardite), % by weight, minimum",
+          "content": "0.02"
+        },
+        {
+          "ingredient": "Polysorbate 80, % by weight, minimum",
+          "content": "0.05"
+        },
+        {
+          "ingredient": "Bentonite granules, % by weight",
+          "content": "QS"
+        },
+        {
+          "ingredient": "Total (Percent)",
+          "content": "100"
+        }
       ],
       "specifications": [
-        { "parameter": "pH", "value": "6.5–7.5" },
-        { "parameter": "Specific gravity", "value": "1.05–1.15" },
-        { "parameter": "Colony Forming Units (CFU/ml)", "value": "1×10^8 min" },
-        { "parameter": "Solubility in water", "value": "100%" }
+        {
+          "parameter": "Alginic acid %, by weight, minimum",
+          "value": "0.02"
+        },
+        {
+          "parameter": "Fucoidan %, by weight, minimum",
+          "value": "0.02"
+        },
+        {
+          "parameter": "Free amino acids %, by weight, minimum",
+          "value": "0.5"
+        },
+        {
+          "parameter": "Total amino acids %, by weight, minimum",
+          "value": "0.6"
+        },
+        {
+          "parameter": "pH (10% aqueous solution)",
+          "value": "6.0-7.5"
+        },
+        {
+          "parameter": "Total dissolved solids %, by weight, minimum",
+          "value": "1"
+        },
+        {
+          "parameter": "Bulk density (g/ml)",
+          "value": "0.80-1.2"
+        },
+        {
+          "parameter": "Total organic carbon %, by weight, minimum",
+          "value": "1"
+        },
+        {
+          "parameter": "Solubility %, by weight, minimum",
+          "value": "5"
+        }
       ],
       "application": {
         "methods": [
-          "<strong>Soil drench:</strong> Dilute 2–3 ml per litre of water and apply at the root zone.",
-          "<strong>Drip irrigation:</strong> 1–2 litres per acre through drip system.",
-          "<strong>Seed treatment:</strong> Mix 5 ml per kg of seed before sowing."
+          "<strong>Dosage:</strong> Mix 5 kg per acre with chemical fertilizers and apply together.",
+          "<strong>Application:</strong> Can be applied separately as recommended by an agronomist.",
+          "Use during basal fertilizer application or top dressing for best results."
         ]
       },
-      "storage": "Store in cool and dry place below 30°C. Shelf life: 2 years from date of manufacture.",
+      "storage": "Granular biological product can be stored for up to three years from the date of manufacturing. Store in a cool and dry place away from direct sunlight and moisture.",
       "safety": [
-        { "title": "Non-Toxic", "text": "Contains only biological organisms; completely safe for humans and the environment." },
-        { "title": "Eco-Safe", "text": "Promotes beneficial soil biology; no adverse environmental effects." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Litre", "form": "Liquid" },
-      "pricing": { "mrp": "650.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "humic-power",
-      "name": "Humic Power",
-      "slug": "humic-power",
-      "category": "Soil Conditioner",
-      "subcategory": "Humic Acid",
-      "shortDescription": "High-concentration humic and fulvic acid soil conditioner to improve soil structure, CEC and nutrient availability.",
-      "description": "Humic Power is a powerful concentrated extract of humic and fulvic acids derived from premium grade Leonardite. It works as a natural soil conditioner that improves cation exchange capacity (CEC), soil aeration and the bioavailability of macro and micronutrients.",
-      "image": "images/humic-power.jpg",
-      "tags": ["Humic Acid", "Soil Conditioner", "Fulvic Acid", "Granule"],
-      "benefits": [
-        "Significantly improves cation exchange capacity (CEC) of soil.",
-        "Chelates micronutrients making them available to plant roots.",
-        "Improves soil structure and water retention capacity.",
-        "Enhances beneficial microbial activity.",
-        "Reduces soil compaction and improves aeration.",
-        "Increases fertilizer use efficiency by 20–30%."
-      ],
-      "composition": [
-        { "ingredient": "Humic acid (Leonardite source), % by weight, minimum", "content": "70" },
-        { "ingredient": "Fulvic acid, % by weight, minimum", "content": "5" },
-        { "ingredient": "Potassium (K2O), % by weight", "content": "10" },
-        { "ingredient": "Moisture, % by weight, maximum", "content": "15" }
-      ],
-      "specifications": [
-        { "parameter": "pH (1% solution)", "value": "9.0–11.0" },
-        { "parameter": "Humic acid %, minimum", "value": "70" },
-        { "parameter": "Fulvic acid %, minimum", "value": "5" },
-        { "parameter": "Solubility in water (%)", "value": "95" },
-        { "parameter": "Particle size (mesh)", "value": "60–80" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Soil application:</strong> 4–8 kg per acre mixed with fertilizer at basal dose.",
-          "<strong>Fertigation:</strong> 2–4 kg per acre through drip/sprinkler irrigation.",
-          "<strong>Foliar:</strong> 1–2 g per litre of water as foliar spray."
-        ]
-      },
-      "storage": "Store in a cool, dry place in a sealed container. Shelf life 3 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Derived from natural Leonardite; safe for humans, animals and soil organisms." },
-        { "title": "Environment Safe", "text": "Improves soil health; no chemical contamination." }
+        {
+          "title": "Non-Toxic",
+          "text": "Completely non-toxic and safe for humans, animals and the environment."
+        },
+        {
+          "title": "Eco-Safe",
+          "text": "Made from biological ingredients and leaves no harmful chemical residues."
+        },
+        {
+          "title": "Safe Handling",
+          "text": "Keep out of reach of children and store in original packaging."
+        }
       ],
       "shelfLife": "3 Years from Date of Manufacturing",
       "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "10 Kg", "form": "Granule / Powder" },
-      "pricing": { "mrp": "720.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "amino-boost",
-      "name": "Amino Boost",
-      "slug": "amino-boost",
-      "category": "Plant Nutrition",
-      "subcategory": "Amino Acid",
-      "shortDescription": "Enzymatically hydrolyzed protein amino acid concentrate for rapid plant uptake and stress recovery.",
-      "description": "Amino Boost is a concentrated liquid formulation of free amino acids obtained through enzymatic hydrolysis of plant-based proteins. It provides plants with readily absorbable amino acids, supporting protein synthesis, enzyme activity and resistance to biotic and abiotic stress.",
-      "image": "images/amino-boost.jpg",
-      "tags": ["Amino Acid", "Liquid", "Stress Recovery", "Plant Nutrition"],
-      "benefits": [
-        "Provides chelated amino acids directly available for plant metabolism.",
-        "Supports rapid recovery from stress conditions like drought, frost or pest attack.",
-        "Improves photosynthesis and chlorophyll content.",
-        "Increases flower set and reduces flower/fruit drop.",
-        "Enhances protein synthesis and enzyme activity in plants.",
-        "Improves quality parameters: size, colour, sugar content, shelf life."
-      ],
-      "composition": [
-        { "ingredient": "Total amino acids, % by weight, minimum", "content": "40" },
-        { "ingredient": "Free amino acids, % by weight, minimum", "content": "30" },
-        { "ingredient": "Organic nitrogen, % by weight, minimum", "content": "6" },
-        { "ingredient": "Protein hydrolysate (plant based)", "content": "QS" }
-      ],
-      "specifications": [
-        { "parameter": "pH", "value": "5.0–7.0" },
-        { "parameter": "Specific gravity", "value": "1.10–1.25" },
-        { "parameter": "Total amino acids %, minimum", "value": "40" },
-        { "parameter": "Free amino acids %, minimum", "value": "30" },
-        { "parameter": "Solubility in water", "value": "100%" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Foliar spray:</strong> 2–3 ml per litre of water every 10–15 days.",
-          "<strong>Fertigation:</strong> 1–2 litres per acre through drip irrigation.",
-          "<strong>During stress:</strong> Apply immediately after stress event at 3–4 ml/litre."
-        ]
+      "packaging": {
+        "netWeight": "25 Kg",
+        "form": "Granule"
       },
-      "storage": "Store in cool dry place away from sunlight. Do not freeze. Shelf life 2 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Plant-based protein source; completely non-toxic and bio-safe." },
-        { "title": "Environment Safe", "text": "Biodegradable; no environmental hazard." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Litre", "form": "Liquid" },
-      "pricing": { "mrp": "780.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "sea-zyme",
-      "name": "Sea Zyme",
-      "slug": "sea-zyme",
-      "category": "Biostimulant",
-      "subcategory": "Seaweed Liquid",
-      "shortDescription": "Pure seaweed extract concentrate rich in cytokinins, auxins, alginic acid and natural growth hormones.",
-      "description": "Sea Zyme is a premium cold-processed seaweed extract derived from Ascophyllum nodosum. It is a rich natural source of cytokinins, auxins, betaines, mannitol, alginic acid, vitamins and trace elements that stimulate plant growth, improve stress tolerance and enhance soil biological activity.",
-      "image": "images/sea-zyme.jpg",
-      "tags": ["Seaweed Extract", "Biostimulant", "Cytokinins", "Liquid"],
-      "benefits": [
-        "Stimulates cell division and elongation through natural cytokinin activity.",
-        "Improves germination rate and seedling vigour.",
-        "Enhances flowering, fruit set and reduces premature fruit drop.",
-        "Improves tolerance to temperature stress, drought and salinity.",
-        "Activates soil microbial populations.",
-        "Improves colour, size and shelf life of fruits and vegetables."
-      ],
-      "composition": [
-        { "ingredient": "Seaweed extract (Ascophyllum nodosum), % by weight, minimum", "content": "60" },
-        { "ingredient": "Alginic acid, % by weight, minimum", "content": "8" },
-        { "ingredient": "Mannitol, % by weight, minimum", "content": "3" },
-        { "ingredient": "Potassium (K2O), % by weight, minimum", "content": "5" }
-      ],
-      "specifications": [
-        { "parameter": "pH", "value": "9.5–11.5" },
-        { "parameter": "Specific gravity", "value": "1.15–1.25" },
-        { "parameter": "Alginic acid %, minimum", "value": "8" },
-        { "parameter": "Mannitol %, minimum", "value": "3" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Foliar spray:</strong> 2–3 ml per litre of water; apply at critical growth stages.",
-          "<strong>Drip irrigation:</strong> 1–2 litres per acre.",
-          "<strong>Seed priming:</strong> Soak seeds in 3 ml/litre solution for 4–6 hours before sowing."
-        ]
+      "pricing": {
+        "mrp": "1650.00",
+        "currency": "INR",
+        "note": "Inclusive of all taxes"
       },
-      "storage": "Store in cool dry place below 25°C. Shelf life 2 years from manufacture.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "100% natural seaweed origin; safe for all users and the environment." },
-        { "title": "Residue Free", "text": "No chemical residues; suitable for organic farming systems." }
+      "certifications": [
+        "ISO 9001:2015"
       ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Litre", "form": "Liquid" },
-      "pricing": { "mrp": "850.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "bio-zyme-plus",
-      "name": "Bio Zyme Plus",
-      "slug": "bio-zyme-plus",
-      "category": "Enzyme Biostimulant",
-      "subcategory": "Enzyme Complex",
-      "shortDescription": "Multi-enzyme biological stimulant to accelerate nutrient cycling and boost crop metabolism.",
-      "description": "Bio Zyme Plus is a complex of plant-derived enzymes including protease, cellulase, amylase and lipase formulated to accelerate organic matter decomposition, mobilize soil-locked nutrients and boost plant metabolic processes.",
-      "image": "images/bio-zyme-plus.jpg",
-      "tags": ["Enzyme", "Biostimulant", "Liquid", "Nutrient Cycling"],
-      "benefits": [
-        "Accelerates decomposition of crop residues and organic matter.",
-        "Mobilizes phosphorus, potassium and micronutrients locked in soil.",
-        "Enhances plant metabolic rate and energy production.",
-        "Improves soil biological activity and organic matter content.",
-        "Compatible with most fertilizers and pesticides.",
-        "Reduces need for chemical inputs over time."
-      ],
-      "composition": [
-        { "ingredient": "Protease activity (U/ml), minimum", "content": "500" },
-        { "ingredient": "Cellulase activity (U/ml), minimum", "content": "200" },
-        { "ingredient": "Amylase activity (U/ml), minimum", "content": "300" },
-        { "ingredient": "Lipase activity (U/ml), minimum", "content": "100" }
-      ],
-      "specifications": [
-        { "parameter": "pH", "value": "5.5–7.0" },
-        { "parameter": "Specific gravity", "value": "1.05–1.15" },
-        { "parameter": "Total enzyme activity (U/ml)", "value": "≥1100" },
-        { "parameter": "Solubility in water", "value": "100%" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Soil application:</strong> 1–2 litres per acre through drip or flood irrigation.",
-          "<strong>Foliar spray:</strong> 2 ml per litre of water at vegetative and reproductive stages."
-        ]
+      "manufacturer": {
+        "name": "Jayshree Bio Tech",
+        "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+        "factoryAddress": "Plot No. 35/36, Main Gate Road, Achalpur 444806",
+        "email": "jayshreebiotech29@gmail.com",
+        "customerCare": "8850318366"
       },
-      "storage": "Store in cool dry place below 30°C away from direct sunlight. Shelf life 2 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Plant-derived enzymes; non-toxic to humans, animals and beneficial organisms." },
-        { "title": "Biodegradable", "text": "Fully biodegradable; no environmental persistence." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Litre", "form": "Liquid" },
-      "pricing": { "mrp": "700.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "nitro-fix",
-      "name": "Nitro Fix",
-      "slug": "nitro-fix",
-      "category": "Biofertilizer",
-      "subcategory": "Nitrogen Fixer",
-      "shortDescription": "Nitrogen-fixing biofertilizer containing Azotobacter and Rhizobium for natural atmospheric nitrogen fixation.",
-      "description": "Nitro Fix is a biofertilizer containing a consortium of nitrogen-fixing bacteria including Azotobacter chroococcum and Rhizobium species. It reduces dependency on synthetic nitrogen fertilizers by fixing atmospheric nitrogen and making it available to crops.",
-      "image": "images/nitro-fix.jpg",
-      "tags": ["Biofertilizer", "Nitrogen Fixation", "Azotobacter", "Rhizobium"],
-      "benefits": [
-        "Fixes atmospheric nitrogen (N2) converting it to plant-available ammonium.",
-        "Reduces chemical nitrogen fertilizer requirement by 20–25%.",
-        "Produces phytohormones promoting root and shoot growth.",
-        "Improves soil health and long-term fertility.",
-        "Suitable for all crops including legumes, cereals and vegetables.",
-        "Completely safe for the environment and soil ecosystem."
-      ],
-      "composition": [
-        { "ingredient": "Azotobacter chroococcum (CFU/g), minimum", "content": "5×10^7" },
-        { "ingredient": "Rhizobium sp. (CFU/g), minimum", "content": "5×10^7" },
-        { "ingredient": "Carrier (lignite/talc)", "content": "QS" }
-      ],
-      "specifications": [
-        { "parameter": "CFU/g (total), minimum", "value": "1×10^8" },
-        { "parameter": "Moisture content (%)", "value": "≤35" },
-        { "parameter": "pH", "value": "6.5–7.5" },
-        { "parameter": "Particle size (mesh)", "value": "400" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Seed treatment:</strong> Mix 200 g per kg of seed; dry in shade before sowing.",
-          "<strong>Soil application:</strong> 2 kg per acre mixed with 50 kg organic manure.",
-          "<strong>Seedling dip:</strong> Prepare slurry of 200 g in 2 litres water; dip roots for 15 minutes before transplanting."
-        ]
-      },
-      "storage": "Store in cool dry place below 25°C away from sunlight and chemicals. Shelf life 2 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Contains only naturally occurring soil bacteria; completely safe." },
-        { "title": "Eco-Friendly", "text": "Promotes natural nitrogen cycle; reduces chemical pollution." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Kg", "form": "Powder" },
-      "pricing": { "mrp": "350.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "phospho-rich",
-      "name": "Phospho Rich",
-      "slug": "phospho-rich",
-      "category": "Biofertilizer",
-      "subcategory": "Phosphate Solubilizer",
-      "shortDescription": "Phosphate solubilizing biofertilizer to unlock fixed soil phosphorus and improve P availability.",
-      "description": "Phospho Rich contains highly effective phosphate solubilizing bacteria (PSB) including Bacillus megaterium and Pseudomonas fluorescens that solubilize fixed inorganic phosphates and mineralise organic phosphorus, making phosphorus readily available to plants.",
-      "image": "images/phospho-rich.jpg",
-      "tags": ["PSB", "Biofertilizer", "Phosphorus", "Soil Health"],
-      "benefits": [
-        "Solubilizes fixed soil phosphate and makes it plant available.",
-        "Produces organic acids that lower rhizosphere pH and mobilize locked nutrients.",
-        "Reduces requirement for chemical phosphatic fertilizers by 25%.",
-        "Produces plant growth hormones (IAA, gibberellin).",
-        "Improves root biomass and overall plant growth.",
-        "Enhances soil microbial diversity."
-      ],
-      "composition": [
-        { "ingredient": "Bacillus megaterium (CFU/g), minimum", "content": "5×10^7" },
-        { "ingredient": "Pseudomonas fluorescens (CFU/g), minimum", "content": "5×10^7" },
-        { "ingredient": "Carrier (lignite)", "content": "QS" }
-      ],
-      "specifications": [
-        { "parameter": "Total CFU/g, minimum", "value": "1×10^8" },
-        { "parameter": "pH", "value": "6.5–7.5" },
-        { "parameter": "Moisture (%)", "value": "≤35" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Seed treatment:</strong> 200 g per kg seed; allow to dry in shade before sowing.",
-          "<strong>Soil application:</strong> 2–4 kg per acre mixed with compost/FYM.",
-          "<strong>Drip irrigation:</strong> 500 g dissolved in 10 litres of water per acre."
-        ]
-      },
-      "storage": "Store at cool temperature below 25°C away from direct sunlight. Shelf life 2 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Natural soil bacteria; safe for humans, animals and soil ecosystem." },
-        { "title": "Eco-Friendly", "text": "Reduces phosphorus pollution from chemical fertilizer run-off." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Kg", "form": "Powder" },
-      "pricing": { "mrp": "360.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "myco-root",
-      "name": "Myco Root",
-      "slug": "myco-root",
-      "category": "Mycorrhiza",
-      "subcategory": "Arbuscular Mycorrhizal Fungi",
-      "shortDescription": "Arbuscular Mycorrhizal Fungi (AMF) inoculant for enhanced nutrient and water absorption through extended root network.",
-      "description": "Myco Root is a carefully produced inoculant of Arbuscular Mycorrhizal Fungi (AMF) including Glomus intraradices and Glomus mosseae. It establishes a symbiotic relationship with plant roots, extending effective root area by up to 700% and dramatically improving phosphorus, zinc, copper and water uptake.",
-      "image": "images/myco-root.jpg",
-      "tags": ["Mycorrhiza", "AMF", "Root Enhancer", "Biofertilizer"],
-      "benefits": [
-        "Extends root absorption area by up to 700% through hyphal network.",
-        "Improves uptake of phosphorus, zinc, copper, iron and water.",
-        "Significantly improves drought tolerance and water use efficiency.",
-        "Reduces phosphatic fertilizer requirement by 30–40%.",
-        "Improves plant establishment in poor or degraded soils.",
-        "Long-lasting effect; colonies persist for the entire crop cycle and beyond."
-      ],
-      "composition": [
-        { "ingredient": "Glomus intraradices (IP/g), minimum", "content": "500" },
-        { "ingredient": "Glomus mosseae (IP/g), minimum", "content": "500" },
-        { "ingredient": "Total infective propagules (IP/g)", "content": "≥1000" },
-        { "ingredient": "Carrier (sterile soil/vermiculite)", "content": "QS" }
-      ],
-      "specifications": [
-        { "parameter": "Total infective propagules/g", "value": "≥1000" },
-        { "parameter": "Moisture content (%)", "value": "≤40" },
-        { "parameter": "pH", "value": "6.0–7.0" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Seed treatment:</strong> Apply 50–100 g per kg of seed.",
-          "<strong>Seedling treatment:</strong> Dip roots in slurry (100 g in 500 ml water) before transplanting.",
-          "<strong>Soil application:</strong> 2 kg per acre placed near root zone during sowing/planting."
-        ]
-      },
-      "storage": "Store in cool dark place at 4–10°C. Do not freeze. Shelf life 18 months.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Natural fungi naturally present in soils; completely safe." },
-        { "title": "Eco-Friendly", "text": "Promotes sustainable agriculture and soil health." }
-      ],
-      "shelfLife": "18 Months from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Kg", "form": "Powder" },
-      "pricing": { "mrp": "550.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
-      "isActive": true,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "potash-bio",
-      "name": "Potash Bio",
-      "slug": "potash-bio",
-      "category": "Biofertilizer",
-      "subcategory": "Potassium Mobilizer",
-      "shortDescription": "Potassium mobilizing biofertilizer to unlock soil-fixed potassium and improve crop quality.",
-      "description": "Potash Bio is a biofertilizer containing Frateuria aurantia bacteria known for their ability to mobilize fixed potassium from soil minerals. It improves potassium availability for crop uptake, directly improving fruit quality, yield and disease resistance.",
-      "image": "images/potash-bio.jpg",
-      "tags": ["Potassium", "KMB", "Biofertilizer", "Crop Quality"],
-      "benefits": [
-        "Mobilizes soil-fixed potassium from silicate minerals.",
-        "Reduces chemical potassic fertilizer requirement by 20%.",
-        "Improves fruit quality parameters: colour, taste, size and shelf life.",
-        "Strengthens cell walls improving resistance to diseases.",
-        "Improves sugar content in fruits and commercial crops.",
-        "Reduces lodging in cereal crops."
-      ],
-      "composition": [
-        { "ingredient": "Frateuria aurantia (CFU/g), minimum", "content": "1×10^8" },
-        { "ingredient": "Carrier (lignite)", "content": "QS" }
-      ],
-      "specifications": [
-        { "parameter": "Total CFU/g, minimum", "value": "1×10^8" },
-        { "parameter": "pH", "value": "6.5–7.5" },
-        { "parameter": "Moisture (%)", "value": "≤35" }
-      ],
-      "application": {
-        "methods": [
-          "<strong>Seed treatment:</strong> 200 g per kg seed.",
-          "<strong>Soil application:</strong> 2–4 kg per acre mixed with FYM.",
-          "<strong>Fertigation:</strong> 500 g dissolved in water per acre."
-        ]
-      },
-      "storage": "Store at 15–25°C in sealed packaging away from sunlight. Shelf life 2 years.",
-      "safety": [
-        { "title": "Non-Toxic", "text": "Natural bacteria; safe for all users and the environment." },
-        { "title": "Eco-Friendly", "text": "Reduces chemical potassium fertilizer use and associated pollution." }
-      ],
-      "shelfLife": "2 Years from Date of Manufacturing",
-      "licenceNo": "LCBWD0320260042",
-      "packaging": { "netWeight": "1 Kg", "form": "Powder" },
-      "pricing": { "mrp": "380.00", "currency": "INR", "note": "Inclusive of all taxes" },
-      "certifications": ["ISO 9001:2015"],
-      "isFeatured": false,
+      "isFeatured": true,
       "isActive": true,
       "createdAt": "2024-01-01"
     }
