@@ -540,7 +540,7 @@ function buildPage(p) {
   if (p.pricing) {
     priceHTML = `<div class="hero-price-block">
       <div class="price-label">MRP (Incl. Tax)</div>
-      <div class="price">₹${p.pricing.mrp}</div>
+      <div class="price">${p.pricing.mrp}</div>
       <div class="price-note">Net Wt: ${p.packaging?.netWeight || 'See label'}</div>
     </div>`;
   }
@@ -652,7 +652,7 @@ function buildPage(p) {
     sec.appendChild(el('h2', 'section-title', 'Product Information'));
     const grid = el('div', 'info-grid');
     const infos = [
-      p.pricing?.mrp && { label: 'MRP (Incl. Taxes)', value: `₹${p.pricing.mrp}` },
+      p.pricing?.mrp && { label: 'MRP (Incl. Taxes)', value: `${p.pricing.mrp}` },
       p.packaging?.netWeight && { label: 'Net Weight', value: p.packaging.netWeight },
       p.packaging?.form && { label: 'Form', value: p.packaging.form },
       p.shelfLife && { label: 'Shelf Life', value: p.shelfLife },
