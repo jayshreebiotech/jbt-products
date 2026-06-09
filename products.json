@@ -336,7 +336,7 @@
   "shelfLife": "3 Years from Date of Manufacturing",
   "licenceNo": "LCBWD0320260042",
   "packaging": {
-    "netWeight": "500 ml, 1l",
+    "netWeight": ["500 ml", "1 L"],
     "form": "Liquid"
   },
   "pricing": {
@@ -583,7 +583,7 @@
   "shelfLife": "3 Years from Date of Manufacturing",
   "licenceNo": "LCBWD0320260042",
   "packaging": {
-    "netWeight": "500 ml, 1l",
+    "netWeight": ["500 ml", "1 L"],
     "form": "Liquid"
   },
   "pricing": {
@@ -708,7 +708,7 @@
   "shelfLife": "3 Years from Date of Manufacturing",
   "licenceNo": "LCBWD0320260042",
   "packaging": {
-  "netWeight": "50ml, 100ml",
+   "netWeight": ["50 ml", "100 ml"],
   "form": "Liquid"
   },
   "pricing": {
@@ -981,6 +981,333 @@
     "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
     "factoryAddress": "Achalpur Main Gate Road, District Amravati, Maharashtra",
     "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "humax-98",
+  "name": "HUMAX 98",
+  "slug": "humax-98",
+  "category": "Biological Fertilizer",
+  "subcategory": "Potassium Humate & Humic Acid",
+  "shortDescription": "Potassium Humate 98% soluble bio-stimulant formulated to improve root development, nutrient uptake and soil health.",
+  "description": "HUMAX 98 is a highly soluble potassium humate formulation containing <strong>humic acid, fulvic acid and organic carbon</strong>. It improves root zone development, enhances nutrient absorption, improves soil pH balance and increases organic carbon content in soil for better crop growth and productivity.",
+  "image": "images/humax-98.png",
+  "tags": [
+    "Potassium Humate",
+    "Humic Acid",
+    "Fulvic Acid",
+    "Water Soluble",
+    "Organic Fertilizer"
+  ],
+  "benefits": [
+    "Improves root zone development.",
+    "Promotes nutrient uptake process in plants.",
+    "Improves pH level balance in soil.",
+    "Increases organic carbon content in soil.",
+    "Helps plants absorb more nutrients efficiently.",
+    "Supports healthy and vigorous plant growth.",
+    "Improves overall crop productivity."
+  ],
+  "composition": [
+    {
+      "ingredient": "Humic acid percent by weight, minimum",
+      "content": "50"
+    },
+    {
+      "ingredient": "Lactose percent by weight",
+      "content": "Q.S."
+    },
+    {
+      "ingredient": "Total",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Humic acid percent by weight, minimum",
+      "value": "50"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "6.8"
+    },
+    {
+      "parameter": "Bulk density (gram/cc)",
+      "value": "0.70 ± 0.02"
+    },
+    {
+      "parameter": "Total organic carbon percent by weight, minimum",
+      "value": "32"
+    },
+    {
+      "parameter": "Solubility percent by weight, minimum",
+      "value": "65"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Preparation:</strong> Take 100 ml clean water and add 200 gm HUMAX 98 powder to make 1 litre liquid formulation.",
+      "<strong>Spray Application:</strong> Mix 1 litre formulation with 200 litres of water and spray on crops.",
+      "<strong>Drip Irrigation:</strong> Use 1 kg HUMAX 98 per acre for fruit crops.",
+      "Use regularly for better crop growth and soil improvement."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep the product sealed when not in use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "For agricultural use only. Use according to recommended dosage."
+    },
+    {
+      "title": "Chemical Compatibility",
+      "text": "Avoid mixing with incompatible chemicals."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Keep away from moisture and sunlight."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": ["250 gm", "500 gm", "1 kg"],
+    "form": "Powder"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹450.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Plot No. 35/36, Main Gate Road, Achalpur, Dist. Amravati - 444806 (M.S.)",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "sniper-gold",
+  "name": "Sniper Gold",
+  "slug": "sniper-gold",
+  "category": "Plant Protector",
+  "subcategory": "Herbal Larvae Plant Protector",
+  "shortDescription": "Herbal plant protection formulation developed for controlling larvae and pest attacks in multiple crops.",
+  "description": "Sniper Gold is a herbal larvae plant protector formulated with natural plant-based ingredients. It provides effective protection against <strong>lepidopteran pests, shoot and stem borers</strong> and helps maintain healthy crop growth. It is suitable for cotton, chilli, onion, tomato, brinjal, vegetables and various other crops.",
+  "image": "images/sniper-gold.png",
+  "tags": [
+    "Biological",
+    "Plant Protector",
+    "Herbal",
+    "Larvae Control",
+    "Pest Management"
+  ],
+  "benefits": [
+    "Provides effective control against lepidopteran pests.",
+    "Controls shoot and stem borer infestations in crops.",
+    "Protects plants from harmful insect larvae.",
+    "Helps maintain healthy crop growth and development.",
+    "Suitable for multiple crops including cotton, chilli, onion, tomato and vegetables."
+  ],
+  "composition": [
+    {
+      "ingredient": "Brassica juncea seed extract, % by weight, minimum",
+      "content": "0.2"
+    },
+    {
+      "ingredient": "Iso propyl alcohol, % by volume",
+      "content": "50"
+    },
+    {
+      "ingredient": "Water, % by weight",
+      "content": "49.98"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Gallic acid, % by weight, minimum",
+      "value": "0.000247"
+    },
+    {
+      "parameter": "pH (10% Solution)",
+      "value": "6.4 ± 0.5"
+    },
+    {
+      "parameter": "Total organic carbon, % by weight, minimum",
+      "value": "1.14"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "0.70 ± 0.02"
+    },
+    {
+      "parameter": "Total dissolved solids, % by weight, minimum",
+      "value": "0.06"
+    },
+    {
+      "parameter": "Solubility, % by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 10 ml per 15 liter of water.",
+      "Repeat application after 15 days if required.",
+      "Use by spraying on crops as recommended.",
+      "Shake well before use and keep the lid tightly closed after use."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep away from children, food and feed materials.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes and follow recommended application methods."
+    },
+    {
+      "title": "Child Safety",
+      "text": "Keep out of reach of children and away from food and feed materials."
+    },
+    {
+      "title": "Handling",
+      "text": "Avoid improper handling. No specific antidote is known; treat symptomatically."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "MH-03-0040642",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"],
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹1450.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "",
+    "customerCare": ""
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "viro-clean-master",
+  "name": "Viro Clean Master",
+  "slug": "viro-clean-master",
+  "category": "Plant Protector",
+  "subcategory": "Biostimulant & Viral Disease Control",
+  "shortDescription": "Biostimulant formulation developed for plant growth support and control of viral diseases like leaf curl.",
+  "description": "Viro Clean Master is a biostimulant plant protection formulation designed for virus control and plant recovery. It enters through stomatal openings and moves through the vascular bundles, helping reduce virus particle activity and supporting plant recovery. It works as a <strong>virus control, anti-viral and leaf curl management solution</strong> for various crops.",
+  "image": "images/viro-clean-master.png",
+  "tags": [
+    "Biostimulant",
+    "Plant Protector",
+    "Virus Control",
+    "Anti Viral",
+    "Leaf Curl Control"
+  ],
+  "benefits": [
+    "Controls virus vectors and helps restore leaf curl affected plants.",
+    "Improves plant resistance against adverse weather conditions.",
+    "Provides rapid penetration and movement inside plant tissues.",
+    "Ensures progressive and uniform distribution protecting new plant growth.",
+    "Rainfall after 4 hours of application has minimal impact on effectiveness."
+  ],
+  "composition": [
+    {
+      "ingredient": "Basil oil (Eugenol), % weight by volume, minimum",
+      "content": "5"
+    },
+    {
+      "ingredient": "Tween 80, % weight by volume, minimum",
+      "content": "6"
+    },
+    {
+      "ingredient": "Cotton seed oil, % weight by volume, minimum",
+      "content": "89"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Eugenol, % weight by volume, minimum",
+      "value": "2.2"
+    },
+    {
+      "parameter": "pH (10% aqueous solution)",
+      "value": "4.9 ± 0.5"
+    },
+    {
+      "parameter": "Organic carbon, % by weight, minimum",
+      "value": "52.26"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "0.93 ± 0.02"
+    },
+    {
+      "parameter": "Total dissolved solids, % by weight, minimum",
+      "value": "0.11"
+    },
+    {
+      "parameter": "Solubility, % by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 10 ml per 15 liter of water.",
+      "Repeat application at 7-10 days interval.",
+      "Recommended to use PPO4A along with Viro Clean for controlling sucking pests which are virus vectors."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep the container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes and follow recommended application guidelines."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Handle carefully and keep away from children."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Store in original packaging in a dry place away from sunlight."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "MH-03-0040642",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"],
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹1450.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "",
+    "customerCare": ""
   },
   "isFeatured": true,
   "isActive": true,
