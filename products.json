@@ -213,7 +213,152 @@
       "isFeatured": true,
       "isActive": true,
       "createdAt": "2024-01-01"
+    },
+    {
+  "id": "power-booster",
+  "name": "Power Booster",
+  "slug": "power-booster",
+  "category": "Biological Liquid",
+  "subcategory": "Seaweed Extract, Humic & Fulvic Acid",
+  "shortDescription": "Liquid bio-stimulant formulated with seaweed extract, humic acid, fulvic acid, amino acids and vitamins for enhanced plant growth, flowering and yield.",
+  "description": "Power Booster is a premium liquid bio-stimulant containing <strong>seaweed extract, humic acid, fulvic acid, amino acids and vitamins</strong>. It stimulates overall plant growth, improves flowering and fruiting, enhances crop quality and yield, and helps plants withstand viral and fungal diseases. The formulation is suitable for a wide range of field crops, fruits and vegetables.",
+  "image": "images/power-booster.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Seaweed Extract",
+    "Humic Acid",
+    "Fulvic Acid",
+    "Amino Acid",
+    "Vitamin C",
+    "Organic"
+  ],
+  "benefits": [
+    "Stimulates overall plant growth and development.",
+    "Induces more flowering, flowers and fruits.",
+    "Prevents shedding of buds, flowers and fruits.",
+    "Increases fruit size and improves crop quality.",
+    "Enhances overall crop yield.",
+    "Helps plants fight against viral diseases.",
+    "Provides protection against fungal diseases.",
+    "Improves nutrient availability and uptake through humic and fulvic substances."
+  ],
+  "composition": [
+    {
+      "ingredient": "Sargassum wightii extract, % by weight, minimum",
+      "content": "20"
+    },
+    {
+      "ingredient": "Glycine, % by weight, minimum",
+      "content": "10"
+    },
+    {
+      "ingredient": "Potassium fulvic humate (Source: Leonardite), % by weight, minimum",
+      "content": "10"
+    },
+    {
+      "ingredient": "Vitamin C, % by weight, minimum",
+      "content": "2.0"
+    },
+    {
+      "ingredient": "Water, % by weight",
+      "content": "QS"
+    },
+    {
+      "ingredient": "Total (Percent)",
+      "content": "100"
     }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alginic acid %, by weight, minimum",
+      "value": "0.102"
+    },
+    {
+      "parameter": "Glycine %, by weight, minimum",
+      "value": "10"
+    },
+    {
+      "parameter": "Humic acid %, by weight, minimum",
+      "value": "9.89"
+    },
+    {
+      "parameter": "Fulvic acid %, by weight, minimum",
+      "value": "0.31"
+    },
+    {
+      "parameter": "Vitamin C %, by weight, minimum",
+      "value": "2.0"
+    },
+    {
+      "parameter": "Total dissolved solids",
+      "value": "10.22"
+    },
+    {
+      "parameter": "Total organic carbon %, by weight, minimum",
+      "value": "4.5"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "8.70 ± 0.2"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.0097 ± 0.03"
+    },
+    {
+      "parameter": "Solubility %, minimum",
+      "value": "99.77"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Recommended Crops:</strong> Chilli, cotton, soybean, paddy, tomato, cabbage, brinjal, orange, grapes, banana and other fruits, vegetables, cereals, pulses and oilseed crops.",
+      "<strong>Dosage:</strong> Use 2–3 ml of Power Booster per litre of water.",
+      "Spray 2–3 times depending on crop condition and growth stage."
+    ]
+  },
+  "storage": "Store in a cool, dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Non-Toxic",
+      "text": "Biological formulation intended for agricultural use when applied as recommended."
+    },
+    {
+      "title": "Eco-Safe",
+      "text": "Contains naturally derived seaweed extract, amino acids and humic substances."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Keep out of reach of children and store in original packaging."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "g2LicenceNo": "G2022 02121119",
+  "packaging": {
+    "netWeight": "500 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "600.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Achalpur, District Amravati, Maharashtra",
+    "email": "jayshreebiotech29@gmail.com",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+}
 
 
 
