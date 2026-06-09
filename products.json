@@ -729,6 +729,262 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "cotton-special",
+  "name": "Cotton Special",
+  "slug": "cotton-special",
+  "category": "Biological Liquid",
+  "subcategory": "Protein Hydrolysate & Seaweed Extract",
+  "shortDescription": "Liquid biological plant growth stimulant formulated with protein hydrolysate and seaweed extract for improving cotton growth, branching, boll development and crop quality.",
+  "description": "Cotton Special is a premium biological liquid formulation containing <strong>protein hydrolysate and seaweed extract</strong>. It supports cotton crop growth by improving plant development, increasing branches and leaves, enhancing boll formation, improving boll size and quality, and reducing leaf shedding. The formulation helps increase yield and crop performance.",
+  "image": "images/cotton-special.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Protein Hydrolysate",
+    "Seaweed Extract",
+    "Cotton Crop",
+    "Plant Growth Stimulant"
+  ],
+  "benefits": [
+    "Accelerates the growth process of cotton plants.",
+    "Increases number of branches and keeps the plant healthy.",
+    "Increases number of leaves and converts them into bolls (seed pods).",
+    "Improves boll size and quality.",
+    "Reduces shedding of leaves.",
+    "Enhances crop growth and productivity."
+  ],
+  "composition": [
+    {
+      "ingredient": "Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent. by weight, minimum",
+      "content": "52.98"
+    },
+    {
+      "ingredient": "Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum",
+      "content": "10"
+    },
+    {
+      "ingredient": "Propyl paraben per cent. by weight, minimum",
+      "content": "0.34"
+    },
+    {
+      "ingredient": "Water per cent. by weight",
+      "content": "36.68"
+    },
+    {
+      "ingredient": "Total (Percent)",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alginic acid %, by weight, minimum",
+      "value": "1.50"
+    },
+    {
+      "parameter": "Fucoidan %, by weight, minimum",
+      "value": "0.19"
+    },
+    {
+      "parameter": "Free amino acids %, by weight, minimum",
+      "value": "15.15"
+    },
+    {
+      "parameter": "Total dissolved solids %, by weight, minimum",
+      "value": "44"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "7.4 ± 0.5"
+    },
+    {
+      "parameter": "Total organic matter %, by weight, minimum",
+      "value": "26.5"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.21 ± 0.02"
+    },
+    {
+      "parameter": "Solubility %, by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Recommended Crops:</strong> Cotton and other suitable crops as recommended.",
+      "<strong>Dosage:</strong> Mix 25 ml Cotton Special per 20 litres of water and spray.",
+      "Apply as foliar spray for better crop growth and boll development."
+    ]
+  },
+  "storage": "Store in a cool, dry place away from direct sunlight. Keep container closed properly after use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes as recommended."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Store properly and follow recommended dosage instructions."
+    },
+    {
+      "title": "Eco-Friendly",
+      "text": "Contains biological ingredients including seaweed extract and protein hydrolysate."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "500 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "₹1200.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Achalpur Main Gate Road, District Amravati, Maharashtra",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "3-in-1-soya-chana-tuar-special",
+  "name": "3 In 1 Soya, Chana, Tuar Special",
+  "slug": "3-in-1-soya-chana-tuar-special",
+  "category": "Plant Growth Promoter",
+  "subcategory": "Protein Hydrolysate & Seaweed Extract",
+  "shortDescription": "Liquid biological plant growth stimulant formulated with protein hydrolysate and seaweed extract for improving crop growth, flowering and yield quality.",
+  "description": "3 In 1 Soya, Chana, Tuar Special is a liquid bio-stimulant formulated with <strong>protein hydrolysate derived from Sus domesticus and seaweed extract (Ascophyllum nodosum)</strong>. It supports plant growth, enhances branching, increases flowering, improves fruit size and quality, and helps plants absorb nutrients efficiently.",
+  "image": "images/3-in-1-soya-chana-tuar-special.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Protein Hydrolysate",
+    "Seaweed Extract",
+    "Plant Growth Promoter",
+    "Amino Acids"
+  ],
+  "benefits": [
+    "Accelerates plant growth process and improves overall plant development.",
+    "Increases number of branches and keeps plants healthy.",
+    "Enhances flowering and converts more flowers into fruits.",
+    "Improves fruit size and crop quality.",
+    "Reduces flower shedding and improves fruit setting.",
+    "Promotes better root development and nutrient absorption.",
+    "Improves crop productivity and plant vitality."
+  ],
+  "composition": [
+    {
+      "ingredient": "Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent by weight, minimum",
+      "content": "52.98"
+    },
+    {
+      "ingredient": "Seaweed (Ascophyllum nodosum) extract per cent by weight, minimum",
+      "content": "10"
+    },
+    {
+      "ingredient": "Propyl paraben per cent by weight, minimum",
+      "content": "0.34"
+    },
+    {
+      "ingredient": "Water per cent by weight",
+      "content": "36.68"
+    },
+    {
+      "ingredient": "Total",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alginic acid per cent by weight, minimum",
+      "value": "1.50"
+    },
+    {
+      "parameter": "Fucoidan per cent by weight, minimum",
+      "value": "0.19"
+    },
+    {
+      "parameter": "Free amino acids per cent by weight, minimum",
+      "value": "15.15"
+    },
+    {
+      "parameter": "Total dissolved solids per cent by weight, minimum",
+      "value": "44"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "7.4 ± 0.5"
+    },
+    {
+      "parameter": "Total organic matter per cent by weight, minimum",
+      "value": "26.5"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.21 ± 0.02"
+    },
+    {
+      "parameter": "Solubility per cent by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Usage:</strong> Used for spraying on soybean, tur, chana and other dicotyledonous crops.",
+      "<strong>Dosage:</strong> Mix 25 ml of 3 In 1 per 20 liters of water and spray.",
+      "Recommended crops: Paddy and tomato.",
+      "Apply two foliar sprays at 1000 ml/ha for paddy and tomato crops."
+    ]
+  },
+  "storage": "Store in a cool, dry place away from direct sunlight. Shake well before use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes."
+    },
+    {
+      "title": "Chemical Compatibility",
+      "text": "Do not mix with alkaline chemicals."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Keep container closed and store away from sunlight."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "G2022 0212119",
+  "packaging": {
+    "netWeight": "500 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "₹1200.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Achalpur Main Gate Road, District Amravati, Maharashtra",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
 
 
