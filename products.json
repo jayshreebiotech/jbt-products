@@ -605,7 +605,124 @@
   "isActive": true,
   "createdAt": "2024-01-01"
 },
-    
+    {
+  "id": "fast-action",
+  "name": "Fast Action",
+  "slug": "fast-action",
+  "category": "Biological Liquid",
+  "subcategory": "Protein Hydrolysate (Amino Acids)",
+  "shortDescription": "Plant-based biological liquid biostimulant containing protein hydrolysate and amino acids for improving plant growth, root development and fruit size.",
+  "description": "Fast Action is a premium biological liquid biostimulant containing <strong>protein hydrolysate, amino acids and plant-based extracts</strong>. It promotes cell division, improves fruit size, enhances root development and supports various physiological plant processes. The formulation helps plants absorb nutrients efficiently and improves overall crop development.",
+  "image": "images/fast-action.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Protein Hydrolysate",
+    "Amino Acids",
+    "Plant Source",
+    "Biostimulant"
+  ],
+  "benefits": [
+    "Promotes cell division and helps increase fruit size.",
+    "Carbohydrate complex supports plant development while enabling roots to absorb more nutrients.",
+    "Promotes various physiological processes in plants.",
+    "Concentrated vegetable origin extract helps develop a strong root zone and improves plant development.",
+    "Improves nutrient absorption and overall plant growth.",
+    "Supports better flowering and fruit formation."
+  ],
+  "composition": [
+    {
+      "ingredient": "Protein hydrolysate (Microbial fermentation) per cent. by weight, minimum - Sugarbeet molasses",
+      "content": "87.1"
+    },
+    {
+      "ingredient": "Protein hydrolysate (Microbial fermentation) per cent. by weight, minimum - Corn/wheat glucose syrups",
+      "content": "12.4"
+    },
+    {
+      "ingredient": "Octhilinone as preservative per cent. by weight, minimum",
+      "content": "0.3"
+    },
+    {
+      "ingredient": "Polysiloxanes as antifoam agent per cent. by weight, minimum",
+      "content": "0.2"
+    },
+    {
+      "ingredient": "Total (Percent)",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Saccharides %, by weight, minimum",
+      "value": "12.5"
+    },
+    {
+      "parameter": "Total amino acids %, by weight, minimum",
+      "value": "20"
+    },
+    {
+      "parameter": "Free amino acids %, by weight, minimum",
+      "value": "12"
+    },
+    {
+      "parameter": "Total organic carbon %, by weight, minimum",
+      "value": "30"
+    },
+    {
+      "parameter": "Bulk Density (g/ml)",
+      "value": "1.26 ± 0.03"
+    },
+    {
+      "parameter": "pH",
+      "value": "6.0 - 6.5"
+    },
+    {
+      "parameter": "Solubility %, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> Mix 0.5 ml Fast Action in 15 litre of water and spray on crops.",
+      "First spray: 20–25 days after germination or transplantation.",
+      "Second application: During flowering stage.",
+      "Third spray: At the time of fruit formation/setting."
+    ]
+  },
+  "storage": "Store in a cool, dry place away from sunlight. Shake well before use. Keep container tightly closed.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes as recommended."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Do not mix with alkaline chemicals. Store properly after use."
+    },
+    {
+      "title": "Eco-Friendly",
+      "text": "Contains biological plant-based ingredients and is designed for crop improvement."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+  "netWeight": "100ml, 250ml, 500ml",
+  "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹1200",
+    "currency": "INR",
+    "note": "Price varies by pack size"
+  }
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+}
 
 
     
