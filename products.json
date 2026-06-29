@@ -1736,6 +1736,135 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "nutricare-mix",
+  "name": "Nutricare Mix",
+  "slug": "nutricare-mix",
+  "category": "Bio Stimulant",
+  "subcategory": "Seaweed & Protein Hydrolysate",
+  "shortDescription": "Liquid bio stimulant developed from seaweed extract, protein hydrolysate and botanical extracts for improved crop growth, flowering and yield enhancement.",
+  "description": "Nutricare Mix is a premium liquid bio stimulant developed from a mixture of <strong>Seaweed (Ascophyllum nodosum) extract, Protein hydrolysate and botanical extract</strong>. It enhances plant growth, nutrient absorption, flowering, fruit quality and overall crop productivity through advanced biological technology.",
+  "image": "images/nutricare-mix.png",
+  "tags": ["Biological", "Bio Stimulant", "Seaweed Extract", "Protein Hydrolysate", "Organic"],
+  "benefits": [
+    "Promotes vigorous crop growth and improves plant development.",
+    "Enhances nutrient absorption and improves physiological activities of plants.",
+    "Increases flowering and improves fruit setting.",
+    "Improves fruit size, quality and overall crop yield.",
+    "Helps reduce flower and fruit drop.",
+    "Improves plant strength and tolerance against environmental stress.",
+    "Suitable for vegetables, fruits, cereals and various agricultural crops."
+  ],
+  "composition": [
+    {
+      "ingredient": "Seaweed (Ascophyllum nodosum) extract per cent. by weight, minimum",
+      "content": "24"
+    },
+    {
+      "ingredient": "Protein hydrolysate derived from plant sources (sugar beet root; soya seed flour; maize kernel in ratio 4:3:3) through chemical hydrolysis per cent. by weight, minimum",
+      "content": "74"
+    },
+    {
+      "ingredient": "Botanical (Lemongrass; leaves) extract per cent. by weight, minimum",
+      "content": "0.9"
+    },
+    {
+      "ingredient": "Sugar syrup (Beet sugar) per cent. by weight, minimum",
+      "content": "20"
+    },
+    {
+      "ingredient": "Benzyl alcohol (Preservative) per cent. by weight, minimum",
+      "content": "0.2"
+    },
+    {
+      "ingredient": "Water per cent. by weight",
+      "content": "38.9"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Total amino acids per cent. by weight, minimum",
+      "value": "18"
+    },
+    {
+      "parameter": "Free amino acids per cent. by weight, minimum",
+      "value": "1.5"
+    },
+    {
+      "parameter": "Mannitol per cent. by weight, minimum",
+      "value": "1.14"
+    },
+    {
+      "parameter": "Alginic acid per cent. by weight, minimum",
+      "value": "1.1"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "5.0 - 6.5"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.22 - 1.25"
+    },
+    {
+      "parameter": "Total organic carbon per cent. by weight, minimum",
+      "value": "20"
+    },
+    {
+      "parameter": "Total dissolved solids per cent. by weight, minimum",
+      "value": "46"
+    },
+    {
+      "parameter": "Solubility per cent. by weight, minimum",
+      "value": "95"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 2-3 ml Nutricare Mix per litre of water.",
+      "Apply through foliar spray during crop growth stages as recommended.",
+      "Can be used for vegetables, fruits, cereals, pulses and other crops."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Non-Toxic",
+      "text": "Safe for crops, humans, animals and the environment when used as directed."
+    },
+    {
+      "title": "Eco-Safe",
+      "text": "Made with biological ingredients without harmful chemical residues."
+    },
+    {
+      "title": "Child Safety",
+      "text": "Keep out of reach of children and store in original packaging."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"],
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹700.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
 
 
