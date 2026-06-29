@@ -1419,6 +1419,116 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "griper",
+  "name": "Griper Crop Yield Booster",
+  "slug": "griper",
+  "category": "Biological Plant Growth Enhancer",
+  "subcategory": "Protein Hydrolysate",
+  "shortDescription": "Plant-based protein hydrolysate formulation designed to enhance crop growth, flowering, fruit setting and yield improvement.",
+  "description": "Griper is a next generation plant growth regulator and crop yield booster formulated with <strong>Protein Hydrolysate (Plant Source) 25%</strong>. It is a unique blend that improves biochemical and physiological activities of plants, enhances nutrient management, promotes flowering, improves fruit setting and maintains crop quality.",
+  "image": "images/griper.png",
+  "tags": [
+    "Biological",
+    "Protein Hydrolysate",
+    "Plant Growth Regulator",
+    "Crop Yield Booster",
+    "Organic"
+  ],
+  "benefits": [
+    "Enhances biochemical and physiological activities of plants.",
+    "Improves nutrient management resulting in better plant growth.",
+    "Promotes profuse flowering and better fruit setting.",
+    "Enhances fruit size and maintains crop quality.",
+    "Improves overall crop productivity and yield.",
+    "Supports healthy plant development under different crop conditions."
+  ],
+  "composition": [
+    {
+      "ingredient": "Protein Hydrolysate (Plant Source) 25% Powder",
+      "content": "25"
+    },
+    {
+      "ingredient": "Protein hydrolysates derived through acid hydrolysis of Glycine max (Soybean) per cent by weight, minimum",
+      "content": "25"
+    },
+    {
+      "ingredient": "Bentonite per cent by weight",
+      "content": "QS"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Total amino acids per cent by weight, minimum",
+      "value": "23"
+    },
+    {
+      "parameter": "Free amino acids per cent by weight, minimum",
+      "value": "6"
+    },
+    {
+      "parameter": "Total organic carbon per cent by weight, minimum",
+      "value": "35"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "4 - 5"
+    },
+    {
+      "parameter": "Bulk density (gm/cc)",
+      "value": "0.5 - 0.7"
+    },
+    {
+      "parameter": "Solubility per cent by weight, minimum",
+      "value": "99"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 5 gram per 15 liter of water.",
+      "<strong>Application:</strong> Use as foliar spray on crops.",
+      "Recommended crops include cotton, chilli, soybean, soybean, sugarcane, rice and other crops."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container properly closed after use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes and keep away from children and food/feed materials."
+    },
+    {
+      "title": "Safe Storage",
+      "text": "Store in original packaging in a dry and cool environment."
+    },
+    {
+      "title": "Eco-Friendly",
+      "text": "Formulated with biological plant-based ingredients suitable for crop management."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "100 gm",
+    "form": "Powder"
+  },
+  "pricing": {
+    "mrp": "₹1280.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra - 444806",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
 
 
