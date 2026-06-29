@@ -1312,6 +1312,113 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "fungose",
+  "name": "Fungose",
+  "slug": "fungose",
+  "category": "Biological Plant Protector",
+  "subcategory": "Vitamin & Plant Growth Enhancer",
+  "shortDescription": "Natural plant protection formulation containing Vitamin E (Alpha Tocopherol) for improving plant health, stress tolerance and crop growth.",
+  "description": "Fungose is a natural plant growth and protection formulation based on <strong>Vitamin Alpha Tocopherol (Vitamin-E)</strong>. It helps improve plant immunity, reduce environmental stress, enhance photosynthesis activity and increase crop productivity. It is suitable for various crops including vegetables, fruits and field crops.",
+  "image": "images/fungose.png",
+  "tags": [
+    "Biological",
+    "Plant Protector",
+    "Vitamin E",
+    "Alpha Tocopherol",
+    "Organic",
+    "Liquid"
+  ],
+  "benefits": [
+    "Helps plants tolerate environmental stress and adverse weather conditions.",
+    "Improves plant growth and overall crop health.",
+    "Enhances photosynthesis activity and plant metabolism.",
+    "Supports better crop productivity and quality.",
+    "Helps in strengthening plant immunity against fungal and stress-related problems.",
+    "Improves plant recovery and growth after stress conditions."
+  ],
+  "composition": [
+    {
+      "ingredient": "Vitamin Alpha Tocopherol (Source: Sunflower Oil) % by weight, minimum",
+      "content": "1"
+    },
+    {
+      "ingredient": "Tween 80 % by weight, minimum",
+      "content": "6"
+    },
+    {
+      "ingredient": "Cotton seed oil % by weight, minimum",
+      "content": "93"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alpha tocopherol % by weight, minimum",
+      "value": "1"
+    },
+    {
+      "parameter": "Organic carbon % by weight, minimum",
+      "value": "51.79"
+    },
+    {
+      "parameter": "pH (10% Solution)",
+      "value": "5.2 ± 0.5"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "0.93 ± 0.02"
+    },
+    {
+      "parameter": "Solubility % by weight, minimum",
+      "value": "94.21"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 2 ml per liter of water. Mix properly and spray on crops.",
+      "<strong>Usage:</strong> Apply as recommended for vegetables, fruits and other crops.",
+      "For best results, use as part of regular crop management practices."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes. Keep away from children, animals and food/feed materials."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Avoid direct contact. Wash hands after handling and follow recommended usage instructions."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Store in original packaging away from heat and sunlight."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"],
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹1500.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra - 444806",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
 
 
