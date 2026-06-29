@@ -858,135 +858,6 @@
   "createdAt": "2024-01-01"
 },
     {
-  "id": "3-in-1-soya-chana-tuar-special",
-  "name": "3 In 1 Soya, Chana, Tuar Special",
-  "slug": "3-in-1-soya-chana-tuar-special",
-  "category": "Plant Growth Promoter",
-  "subcategory": "Protein Hydrolysate & Seaweed Extract",
-  "shortDescription": "Liquid biological plant growth stimulant formulated with protein hydrolysate and seaweed extract for improving crop growth, flowering and yield quality.",
-  "description": "3 In 1 Soya, Chana, Tuar Special is a liquid bio-stimulant formulated with <strong>protein hydrolysate derived from Sus domesticus and seaweed extract (Ascophyllum nodosum)</strong>. It supports plant growth, enhances branching, increases flowering, improves fruit size and quality, and helps plants absorb nutrients efficiently.",
-  "image": "images/3-in-1-soya-chana-tuar-special.png",
-  "tags": [
-    "Biological",
-    "Liquid",
-    "Protein Hydrolysate",
-    "Seaweed Extract",
-    "Plant Growth Promoter",
-    "Amino Acids"
-  ],
-  "benefits": [
-    "Accelerates plant growth process and improves overall plant development.",
-    "Increases number of branches and keeps plants healthy.",
-    "Enhances flowering and converts more flowers into fruits.",
-    "Improves fruit size and crop quality.",
-    "Reduces flower shedding and improves fruit setting.",
-    "Promotes better root development and nutrient absorption.",
-    "Improves crop productivity and plant vitality."
-  ],
-  "composition": [
-    {
-      "ingredient": "Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent by weight, minimum",
-      "content": "52.98"
-    },
-    {
-      "ingredient": "Seaweed (Ascophyllum nodosum) extract per cent by weight, minimum",
-      "content": "10"
-    },
-    {
-      "ingredient": "Propyl paraben per cent by weight, minimum",
-      "content": "0.34"
-    },
-    {
-      "ingredient": "Water per cent by weight",
-      "content": "36.68"
-    },
-    {
-      "ingredient": "Total",
-      "content": "100"
-    }
-  ],
-  "specifications": [
-    {
-      "parameter": "Alginic acid per cent by weight, minimum",
-      "value": "1.50"
-    },
-    {
-      "parameter": "Fucoidan per cent by weight, minimum",
-      "value": "0.19"
-    },
-    {
-      "parameter": "Free amino acids per cent by weight, minimum",
-      "value": "15.15"
-    },
-    {
-      "parameter": "Total dissolved solids per cent by weight, minimum",
-      "value": "44"
-    },
-    {
-      "parameter": "pH (1% aqueous solution)",
-      "value": "7.4 ± 0.5"
-    },
-    {
-      "parameter": "Total organic matter per cent by weight, minimum",
-      "value": "26.5"
-    },
-    {
-      "parameter": "Specific gravity",
-      "value": "1.21 ± 0.02"
-    },
-    {
-      "parameter": "Solubility per cent by weight, minimum",
-      "value": "100"
-    }
-  ],
-  "application": {
-    "methods": [
-      "<strong>Usage:</strong> Used for spraying on soybean, tur, chana and other dicotyledonous crops.",
-      "<strong>Dosage:</strong> Mix 25 ml of 3 In 1 per 20 liters of water and spray.",
-      "Recommended crops: Paddy and tomato.",
-      "Apply two foliar sprays at 1000 ml/ha for paddy and tomato crops."
-    ]
-  },
-  "storage": "Store in a cool, dry place away from direct sunlight. Shake well before use.",
-  "safety": [
-    {
-      "title": "Agricultural Use Only",
-      "text": "Use only for agricultural purposes."
-    },
-    {
-      "title": "Chemical Compatibility",
-      "text": "Do not mix with alkaline chemicals."
-    },
-    {
-      "title": "Storage Safety",
-      "text": "Keep container closed and store away from sunlight."
-    }
-  ],
-  "shelfLife": "3 Years from Date of Manufacturing",
-  "licenceNo": "G2022 0212119",
-  "packaging": {
-    "netWeight": "500 ml",
-    "form": "Liquid"
-  },
-  "pricing": {
-    "mrp": "₹1200.00",
-    "currency": "INR",
-    "note": "Inclusive of all taxes"
-  },
-  "certifications": [
-    "ISO 9001:2015"
-  ],
-  "manufacturer": {
-    "name": "Jayshree Bio Tech",
-    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
-    "factoryAddress": "Achalpur Main Gate Road, District Amravati, Maharashtra",
-    "customerCare": "8850318366"
-  },
-  "isFeatured": true,
-  "isActive": true,
-  "createdAt": "2024-01-01"
-},
-    {
   "id": "humax-98",
   "name": "HUMAX 98",
   "slug": "humax-98",
@@ -1205,115 +1076,6 @@
   "createdAt": "2024-01-01"
 },
     {
-  "id": "viro-clean-master",
-  "name": "Viro Clean Master",
-  "slug": "viro-clean-master",
-  "category": "Plant Protector",
-  "subcategory": "Biostimulant & Viral Disease Control",
-  "shortDescription": "Biostimulant formulation developed for plant growth support and control of viral diseases like leaf curl.",
-  "description": "Viro Clean Master is a biostimulant plant protection formulation designed for virus control and plant recovery. It enters through stomatal openings and moves through the vascular bundles, helping reduce virus particle activity and supporting plant recovery. It works as a <strong>virus control, anti-viral and leaf curl management solution</strong> for various crops.",
-  "image": "images/viro-clean-master.png",
-  "tags": [
-    "Biostimulant",
-    "Plant Protector",
-    "Virus Control",
-    "Anti Viral",
-    "Leaf Curl Control"
-  ],
-  "benefits": [
-    "Controls virus vectors and helps restore leaf curl affected plants.",
-    "Improves plant resistance against adverse weather conditions.",
-    "Provides rapid penetration and movement inside plant tissues.",
-    "Ensures progressive and uniform distribution protecting new plant growth.",
-    "Rainfall after 4 hours of application has minimal impact on effectiveness."
-  ],
-  "composition": [
-    {
-      "ingredient": "Basil oil (Eugenol), % weight by volume, minimum",
-      "content": "5"
-    },
-    {
-      "ingredient": "Tween 80, % weight by volume, minimum",
-      "content": "6"
-    },
-    {
-      "ingredient": "Cotton seed oil, % weight by volume, minimum",
-      "content": "89"
-    }
-  ],
-  "specifications": [
-    {
-      "parameter": "Eugenol, % weight by volume, minimum",
-      "value": "2.2"
-    },
-    {
-      "parameter": "pH (10% aqueous solution)",
-      "value": "4.9 ± 0.5"
-    },
-    {
-      "parameter": "Organic carbon, % by weight, minimum",
-      "value": "52.26"
-    },
-    {
-      "parameter": "Specific gravity",
-      "value": "0.93 ± 0.02"
-    },
-    {
-      "parameter": "Total dissolved solids, % by weight, minimum",
-      "value": "0.11"
-    },
-    {
-      "parameter": "Solubility, % by weight, minimum",
-      "value": "100"
-    }
-  ],
-  "application": {
-    "methods": [
-      "<strong>Dosage:</strong> 10 ml per 15 liter of water.",
-      "Repeat application at 7-10 days interval.",
-      "Recommended to use PPO4A along with Viro Clean for controlling sucking pests which are virus vectors."
-    ]
-  },
-  "storage": "Store in a cool and dry place away from direct sunlight. Keep the container tightly closed after use.",
-  "safety": [
-    {
-      "title": "Agricultural Use Only",
-      "text": "Use only for agricultural purposes and follow recommended application guidelines."
-    },
-    {
-      "title": "Safe Handling",
-      "text": "Handle carefully and keep away from children."
-    },
-    {
-      "title": "Storage Safety",
-      "text": "Store in original packaging in a dry place away from sunlight."
-    }
-  ],
-  "shelfLife": "3 Years from Date of Manufacturing",
-  "licenceNo": "MH-03-0040642",
-  "packaging": {
-    "netWeight": ["250 ml", "500 ml", "1 L"],
-    "form": "Liquid"
-  },
-  "pricing": {
-    "mrp": "Starts from ₹1450.00",
-    "currency": "INR",
-    "note": "Inclusive of all taxes"
-  },
-  "certifications": [
-    "ISO 9001:2015"
-  ],
-  "manufacturer": {
-    "name": "Jayshree Bio Tech",
-    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
-    "factoryAddress": "",
-    "customerCare": ""
-  },
-  "isFeatured": true,
-  "isActive": true,
-  "createdAt": "2024-01-01"
-},
-    {
   "id": "fungose",
   "name": "Fungose",
   "slug": "fungose",
@@ -1403,7 +1165,7 @@
     "form": "Liquid"
   },
   "pricing": {
-    "mrp": "Starts from ₹1500.00",
+    "mrp": "Starts from ₹1200.00",
     "currency": "INR",
     "note": "Inclusive of all taxes"
   },
@@ -1524,6 +1286,335 @@
     "name": "Jayshree Bio Tech",
     "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
     "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra - 444806",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "stick-faster",
+  "name": "Stick Faster",
+  "slug": "stick-faster",
+  "category": "Agricultural Adjuvant",
+  "subcategory": "Spreader, Sticker & Penetrator",
+  "shortDescription": "Advanced spray adjuvant formulation designed to improve pesticide spreading, sticking and penetration on plant surfaces for better crop protection efficiency.",
+  "description": "Stick Faster is a technical spray adjuvant formulated as a <strong>spreader, sticker and penetrator</strong>. It improves spray coverage, helps retain moisture on plant surfaces and enhances the effectiveness of pesticides, fungicides, herbicides and plant growth substances. Its unique formulation helps reduce wastage and improves crop protection performance.",
+  "image": "images/stick-faster.png",
+  "tags": [
+    "Agricultural Adjuvant",
+    "Spreader",
+    "Sticker",
+    "Penetrator",
+    "Crop Protection"
+  ],
+  "benefits": [
+    "Provides uniform spray deposition on plant surfaces and improves solution coverage.",
+    "Improves the effectiveness of active ingredients in spray solutions.",
+    "Helps retain moisture in the root zone and plant surface.",
+    "Improves penetration and absorption of spray materials.",
+    "Enhances crop protection product performance and reduces wastage.",
+    "Saves quantity of costly pesticides and improves economic efficiency.",
+    "Provides better spreading on glossy leaf surfaces like banana, onion, pomegranate and other crops."
+  ],
+  "composition": [
+    {
+      "ingredient": "Tocopherol",
+      "content": "0.3%"
+    },
+    {
+      "ingredient": "Prolin",
+      "content": "1%"
+    },
+    {
+      "ingredient": "Other ingredients",
+      "content": "QS"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Total composition",
+      "value": "100%"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> 1 ml per liter of water.",
+      "<strong>Spray Application:</strong> Mix with pesticide, fungicide, herbicide or other crop spray solutions.",
+      "For better results, shake well before use and apply according to crop requirements."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agricultural Use Only",
+      "text": "Use only for agricultural purposes. Keep away from children, food and feed materials."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Avoid spraying during high temperature conditions and handle with proper care."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Keep product in original packaging and store away from heat and sunlight."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "250 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "₹450.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra - 444806",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "triple-power",
+  "name": "Triple Power",
+  "slug": "triple-power",
+  "category": "Biological Liquid",
+  "subcategory": "Protein Hydrolysate & Seaweed Extract",
+  "shortDescription": "Liquid biological biostimulant developed from protein hydrolysate and seaweed extract to enhance crop growth, flowering, fruit quality and yield.",
+  "description": "Triple Power is a premium liquid biostimulant formulated with <strong>protein hydrolysate and seaweed extract</strong>. It improves plant biochemical and physiological activities, enhances nutrient management, promotes flowering, improves fruit setting and supports better crop quality and productivity.",
+  "image": "images/triple-power.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Protein Hydrolysate",
+    "Seaweed Extract",
+    "Biostimulant",
+    "Crop Yield Booster"
+  ],
+  "benefits": [
+    "Improves plant growth and development by enhancing biochemical activities.",
+    "Helps in better nutrient management resulting in healthy crop growth.",
+    "Promotes flowering and improves fruit setting.",
+    "Enhances fruit size and maintains better crop quality.",
+    "Improves plant strength and overall crop productivity.",
+    "Useful for soybean, chana, tur and other crop varieties."
+  ],
+  "composition": [
+    {
+      "ingredient": "Protein hydrolysate derived from Sus domesticus (animal source) through enzymatic (protease) hydrolysis per cent by weight, minimum",
+      "content": "62.98"
+    },
+    {
+      "ingredient": "Seaweed (Ascophyllum nodosum) extract per cent by weight, minimum",
+      "content": "10"
+    },
+    {
+      "ingredient": "Propyl paraben per cent by weight, minimum",
+      "content": "0.34"
+    },
+    {
+      "ingredient": "Water per cent by weight",
+      "content": "36.68"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Alginic acid per cent by weight, minimum",
+      "value": "1.50"
+    },
+    {
+      "parameter": "Fucoidan per cent by weight, minimum",
+      "value": "0.19"
+    },
+    {
+      "parameter": "Free amino acids per cent by weight, minimum",
+      "value": "15.15"
+    },
+    {
+      "parameter": "Total dissolved solids per cent by weight, minimum",
+      "value": "4.44"
+    },
+    {
+      "parameter": "pH (1% aqueous solution)",
+      "value": "7.4 ± 0.5"
+    },
+    {
+      "parameter": "Total organic matter per cent by weight, minimum",
+      "value": "26.5"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.21 ± 0.02"
+    },
+    {
+      "parameter": "Solubility per cent by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> Mix 1-2 ml Triple Power per litre of water and apply as foliar spray.",
+      "<strong>Recommended Crops:</strong> Soybean, Chana, Tur and other field crops.",
+      "Apply as per crop requirement for better flowering, fruit setting and yield improvement."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agriculture Use Only",
+      "text": "Use only for agricultural purposes. Keep away from children, animals and food products."
+    },
+    {
+      "title": "Safe Storage",
+      "text": "Store in original packaging in a cool and dry location."
+    },
+    {
+      "title": "Handling",
+      "text": "Shake well before use and follow recommended dosage instructions."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": "500 ml",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "₹1200.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
+},
+    {
+  "id": "warrior",
+  "name": "Warrior",
+  "slug": "warrior",
+  "category": "Biological Liquid",
+  "subcategory": "Basil Oil (Eugenol)",
+  "shortDescription": "Natural biological liquid formulation based on basil oil (Eugenol) for plant protection and crop health improvement.",
+  "description": "Warrior is a natural biological crop protection product formulated with <strong>basil oil (Eugenol)</strong>. It works as a plant protection agent by supporting plant health, improving crop resistance and helping manage various crop problems. It is suitable for vegetables, fruits and field crops.",
+  "image": "images/warrior.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Basil Oil",
+    "Eugenol",
+    "Plant Protection",
+    "Organic"
+  ],
+  "benefits": [
+    "Helps protect crops naturally through plant-based active ingredients.",
+    "Improves plant health and supports crop growth.",
+    "Provides effective crop protection against various plant-related problems.",
+    "Suitable for vegetables, fruits and different agricultural crops.",
+    "Supports better crop quality and productivity.",
+    "Works as a natural alternative for integrated crop management."
+  ],
+  "composition": [
+    {
+      "ingredient": "Basil oil (Eugenol) per cent weight by volume, minimum",
+      "content": "5"
+    },
+    {
+      "ingredient": "Tween 80 per cent weight by volume, minimum",
+      "content": "6"
+    },
+    {
+      "ingredient": "Cotton seed oil per cent weight by volume, minimum",
+      "content": "89"
+    },
+    {
+      "ingredient": "Total per cent",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Eugenol per cent weight by volume, minimum",
+      "value": "2.2"
+    },
+    {
+      "parameter": "pH (10% aqueous solution)",
+      "value": "4.9 ± 0.5"
+    },
+    {
+      "parameter": "Organic carbon per cent by weight, minimum",
+      "value": "52.26"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "0.93 ± 0.02"
+    },
+    {
+      "parameter": "Total dissolved solids per cent by weight, minimum",
+      "value": "0.11"
+    },
+    {
+      "parameter": "Solubility per cent by weight, minimum",
+      "value": "100"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> Mix 1-2 ml Warrior per litre of water and spray on crops.",
+      "<strong>Application:</strong> Apply uniformly on crop foliage as required.",
+      "For best results, use as part of regular crop protection practices."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agriculture Use Only",
+      "text": "Use only for agricultural purposes. Keep away from children, animals and food products."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Shake well before use and follow recommended dosage instructions."
+    },
+    {
+      "title": "Storage Safety",
+      "text": "Store in original packaging in a cool and dry location."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"],
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹1450.00",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra",
     "customerCare": "8850318366"
   },
   "isFeatured": true,
