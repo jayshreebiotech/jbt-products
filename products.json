@@ -1620,6 +1620,122 @@
   "isFeatured": true,
   "isActive": true,
   "createdAt": "2024-01-01"
+},
+    {
+  "id": "florina",
+  "name": "Florina",
+  "slug": "florina",
+  "category": "Biological Liquid",
+  "subcategory": "Seaweed Extract (Kappaphycus alvarezii)",
+  "shortDescription": "Bio stimulant liquid formulation developed from Kappaphycus alvarezii seaweed extract for improved plant growth, flowering, fruit quality and crop productivity.",
+  "description": "Florina is an advanced biological biostimulant formulated with <strong>Kappaphycus alvarezii seaweed extract</strong>. It enhances plant physiological activities, improves flowering, fruit setting, fruit size and crop quality. This natural seaweed-based formulation supports healthy crop development and increases productivity.",
+  "image": "images/florina.png",
+  "tags": [
+    "Biological",
+    "Liquid",
+    "Seaweed Extract",
+    "Kappaphycus alvarezii",
+    "Biostimulant",
+    "Organic"
+  ],
+  "benefits": [
+    "Improves plant growth and development.",
+    "Enhances flowering and helps increase flower retention.",
+    "Improves fruit size and overall fruit quality.",
+    "Supports better crop productivity and yield.",
+    "Improves plant physiological activities and nutrient utilization.",
+    "Suitable for vegetables, fruits and field crops.",
+    "Helps plants tolerate environmental stress conditions."
+  ],
+  "composition": [
+    {
+      "ingredient": "Seaweed (Kappaphycus alvarezii) extract per cent by volume, minimum",
+      "content": "19.5"
+    },
+    {
+      "ingredient": "Organic acid (acetic acid, citric acid and lactic acid) per cent by volume, minimum",
+      "content": "1.5"
+    },
+    {
+      "ingredient": "Water per cent by volume, maximum",
+      "content": "79"
+    },
+    {
+      "ingredient": "Total per cent",
+      "content": "100"
+    }
+  ],
+  "specifications": [
+    {
+      "parameter": "Carrageenan per cent by weight, minimum",
+      "value": "1.8"
+    },
+    {
+      "parameter": "pH (50% aqueous solution)",
+      "value": "3-5"
+    },
+    {
+      "parameter": "Organic carbon per cent by weight, minimum",
+      "value": "32"
+    },
+    {
+      "parameter": "Specific gravity",
+      "value": "1.1 - 1.20"
+    },
+    {
+      "parameter": "Total dissolved solids per cent by weight, minimum",
+      "value": "21"
+    },
+    {
+      "parameter": "Solubility per cent by weight, minimum",
+      "value": "98"
+    }
+  ],
+  "application": {
+    "methods": [
+      "<strong>Dosage:</strong> Mix 1-2 ml Florina per litre of water and apply as foliar spray.",
+      "<strong>Recommended Crops:</strong> Cotton, chilli, soybean, wheat, paddy, vegetables, fruits and other crops.",
+      "Apply during crop growth stages for better flowering, fruit setting and yield improvement."
+    ]
+  },
+  "storage": "Store in a cool and dry place away from direct sunlight. Keep container tightly closed after use.",
+  "safety": [
+    {
+      "title": "Agriculture Use Only",
+      "text": "Use only for agricultural purposes. Keep away from children, animals and food products."
+    },
+    {
+      "title": "Eco-Safe",
+      "text": "Made from natural seaweed extract and organic ingredients."
+    },
+    {
+      "title": "Safe Handling",
+      "text": "Shake well before use and follow recommended dosage instructions."
+    }
+  ],
+  "shelfLife": "3 Years from Date of Manufacturing",
+  "licenceNo": "LCBWD0320260042",
+  "packaging": {
+    "netWeight": ["250 ml", "500 ml", "1 L"]",
+    "form": "Liquid"
+  },
+  "pricing": {
+    "mrp": "Starts from ₹700.00"",
+    "currency": "INR",
+    "note": "Inclusive of all taxes"
+  },
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "manufacturer": {
+    "name": "Jayshree Bio Tech",
+    "address": "62, Santaji Society, Narendra Nagar, Nagpur 440015",
+    "factoryAddress": "Main Gate Road, Achalpur, District Amravati, Maharashtra",
+    "customerCare": "8850318366"
+  },
+  "isFeatured": true,
+  "isActive": true,
+  "createdAt": "2024-01-01"
 }
 
 
